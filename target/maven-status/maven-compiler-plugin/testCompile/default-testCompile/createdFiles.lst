@@ -1,0 +1,4 @@
+com/devtiro/books/TestData.class
+com/devtiro/books/controllers/BookControllerIT.class
+com/devtiro/books/services/impl/BookServiceImplTest.class
+com/devtiro/books/BooksApplicationTests.class
