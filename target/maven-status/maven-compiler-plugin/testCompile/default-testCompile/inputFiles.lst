@@ -1,0 +1,4 @@
+/home/tuyen.nguyen6/Java/jenkin-springboot-docker/src/test/java/com/devtiro/books/TestData.java
+/home/tuyen.nguyen6/Java/jenkin-springboot-docker/src/test/java/com/devtiro/books/controllers/BookControllerIT.java
+/home/tuyen.nguyen6/Java/jenkin-springboot-docker/src/test/java/com/devtiro/books/services/impl/BookServiceImplTest.java
+/home/tuyen.nguyen6/Java/jenkin-springboot-docker/src/test/java/com/devtiro/books/BooksApplicationTests.java

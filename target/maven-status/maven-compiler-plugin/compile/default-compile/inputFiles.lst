@@ -1,0 +1,10 @@
+/home/tuyen.nguyen6/Java/jenkin-springboot-docker/src/main/java/com/devtiro/books/domain/Book.java
+/home/tuyen.nguyen6/Java/jenkin-springboot-docker/src/main/java/com/devtiro/books/controllers/BookController.java
+/home/tuyen.nguyen6/Java/jenkin-springboot-docker/src/main/java/com/devtiro/books/services/impl/BookServiceImpl.java
+/home/tuyen.nguyen6/Java/jenkin-springboot-docker/src/main/java/com/devtiro/books/repositories/BookRepository.java
+/home/tuyen.nguyen6/Java/jenkin-springboot-docker/src/main/java/com/devtiro/books/domain/BookEntity.java
+/home/tuyen.nguyen6/Java/jenkin-springboot-docker/src/main/java/com/devtiro/books/services/BookService.java
+/home/tuyen.nguyen6/Java/jenkin-springboot-docker/src/main/java/com/devtiro/books/config/SecurityConfig.java
+/home/tuyen.nguyen6/Java/jenkin-springboot-docker/src/main/java/com/devtiro/books/BooksApplication.java
+/home/tuyen.nguyen6/Java/jenkin-springboot-docker/src/main/java/com/devtiro/books/domain/BookPersistStatus.java
+/home/tuyen.nguyen6/Java/jenkin-springboot-docker/src/main/java/com/devtiro/books/config/ApiKeyAuthFilter.java

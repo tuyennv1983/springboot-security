@@ -1,0 +1,13 @@
+com/devtiro/books/domain/Book.class
+com/devtiro/books/domain/Book$BookBuilder.class
+com/devtiro/books/config/ApiKeyAuthFilter.class
+com/devtiro/books/config/SecurityConfig.class
+com/devtiro/books/domain/BookPersistStatus.class
+com/devtiro/books/domain/BookPersistStatus$BookPersistStatusBuilder.class
+com/devtiro/books/BooksApplication.class
+com/devtiro/books/services/BookService.class
+com/devtiro/books/repositories/BookRepository.class
+com/devtiro/books/domain/BookEntity.class
+com/devtiro/books/domain/BookEntity$BookEntityBuilder.class
+com/devtiro/books/controllers/BookController.class
+com/devtiro/books/services/impl/BookServiceImpl.class
